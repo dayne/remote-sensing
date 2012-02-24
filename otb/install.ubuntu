@@ -1,0 +1,3 @@
+sudo add-apt-repository ppa:otb/orfeotoolbox-stable-ubuntugis
+sudo aptitude update
+sudo aptitude install otbapp
